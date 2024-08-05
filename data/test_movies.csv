@@ -1,0 +1,453 @@
+,Unnamed: 0,imdb_id,movie,rating
+0,0,tt5164432,"Love, Simon",7.5
+1,1,tt7121252,On My Skin,7.3
+2,2,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,6.5
+3,3,tt1213641,First Man,7.3
+4,4,tt4477536,Fifty Shades Freed,4.5
+5,5,tt5783956,When We First Met,6.4
+6,6,tt6772950,Truth or Dare,5.2
+7,7,tt2873282,Red Sparrow,6.6
+8,8,tt1677720,Ready Player One,7.4
+9,9,tt1072748,Winchester,5.4
+10,10,tt4218572,Widows,6.8
+11,11,tt2854926,Tag,6.5
+12,12,tt5083738,The Favourite,7.5
+13,13,tt4073790,The Darkest Minds,5.7
+14,14,tt5523010,The Nutcracker and the Four Realms,5.6
+15,15,tt1590193,The Commuter,6.3
+16,16,tt6133466,The First Purge,5.2
+17,17,tt5814060,The Nun,5.3
+18,18,tt2119543,The House with a Clock in Its Walls,6.1
+19,19,tt6412452,The Ballad of Buster Scruggs,7.2
+20,20,tt4971344,The Sisters Brothers,6.9
+21,21,tt7959026,The Mule,7.0
+22,22,tt8954732,The Princess Switch,6.1
+23,23,tt3829266,The Predator,5.3
+24,24,tt6663582,The Spy Who Dumped Me,6.0
+25,25,tt6802308,The 15:17 to Paris,5.3
+26,26,tt4779682,The Meg,5.7
+27,27,tt3766354,The Equalizer 2,6.7
+28,28,tt2990140,The Christmas Chronicles,7.0
+29,29,tt2709692,The Grinch,6.4
+30,30,tt4003440,The House That Jack Built,6.8
+31,31,tt5580266,The Hate U Give,7.5
+32,32,tt3799232,The Kissing Booth,5.9
+33,33,tt2548396,The Cloverfield Paradox,5.5
+34,34,tt1365519,Tomb Raider,6.3
+35,35,tt3846674,To All the Boys I've Loved Before,7.0
+36,36,tt1413492,12 Strong,6.5
+37,37,tt2557478,Pacific Rim: Uprising,5.6
+38,38,tt6499752,Upgrade,7.5
+39,39,tt5052474,Sicario: Day of the Soldado,7.1
+40,40,tt3120280,Sierra Burgess Is a Loser,5.8
+41,41,tt1034415,Suspiria,6.7
+42,42,tt3778644,Solo: A Star Wars Story,6.9
+43,43,tt1270797,Venom,6.6
+44,44,tt1259528,Den of Thieves,7.0
+45,45,tt1137450,Death Wish,6.3
+46,46,tt5463162,Deadpool 2,7.6
+47,47,tt4701182,Bumblebee,6.7
+48,48,tt1846589,Hunter Killer,6.6
+49,49,tt2737304,Bird Box,6.6
+50,50,tt1502407,Halloween,6.5
+51,51,tt5220122,Hotel Transylvania 3: Summer Vacation,6.3
+52,52,tt5246700,How It Ends,5.1
+53,53,tt1727824,Bohemian Rhapsody,7.9
+54,54,tt6628394,Bad Times at the El Royale,7.1
+55,55,tt5095030,Ant-Man and the Wasp,7.0
+56,56,tt2798920,Annihilation,6.8
+57,57,tt4530422,Overlord,6.6
+58,58,tt4881806,Jurassic World: Fallen Kingdom,6.1
+59,59,tt4575576,Christopher Robin,7.2
+60,60,tt5164214,Ocean's Eight,6.3
+61,61,tt7026672,Every Day,6.4
+62,62,tt5104604,Isle of Dogs,7.8
+63,63,tt3201640,Extinction,5.8
+64,64,tt7401588,Instant Family,7.3
+65,65,tt3606756,Incredibles 2,7.5
+66,66,tt5726086,Insidious: The Last Key,5.7
+67,67,tt6195094,Ghostland,6.4
+68,68,tt6343314,Creed II,7.1
+69,69,tt3104988,Crazy Rich Asians,6.9
+70,70,tt6921996,Johnny English Strikes Again,6.2
+71,71,tt6155172,Roma,7.7
+72,72,tt4532826,Robin Hood,5.3
+73,73,tt2231461,Rampage,6.1
+74,74,tt5848272,Ralph Breaks the Internet,7.0
+75,75,tt6266538,Vice,7.2
+76,76,tt6850820,Peppermint,6.5
+77,77,tt4633694,Spider-Man: Into the Spider-Verse,8.4
+78,78,tt5690360,Slender Man,3.3
+79,79,tt5758778,Skyscraper,5.8
+80,80,tt7668870,Searching,7.6
+81,81,tt5304992,Set It Up,6.5
+82,82,tt6966692,Green Book,8.2
+83,83,tt4244998,Alpha,6.6
+84,84,tt5688996,Alex Strangelove,6.3
+85,85,tt4912910,Mission: Impossible - Fallout,7.7
+86,86,tt4560436,Mile 22,6.1
+87,87,tt4799066,Midnight Sun,6.6
+88,88,tt6768578,Dogman,7.2
+89,89,tt7349662,BlacKkKlansman,7.5
+90,90,tt1825683,Black Panther,7.3
+91,91,tt2531344,Blockers,6.2
+92,92,tt6306064,Adrift,6.6
+93,93,tt7961060,Dragon Ball Super: Broly,7.7
+94,94,tt1571234,Mortal Engines,6.1
+95,95,tt2388771,Mowgli: Legend of the Jungle,6.5
+96,96,tt6781982,Night School,5.6
+97,97,tt5028340,Mary Poppins Returns,6.7
+98,98,tt6911608,Mamma Mia! Here We Go Again,6.6
+99,99,tt2328900,Mary Queen of Scots,6.3
+100,100,tt4500922,Maze Runner: The Death Cure,6.3
+101,101,tt1226837,Beautiful Boy,7.4
+102,102,tt7784604,Hereditary,7.3
+103,103,tt2704998,Game Night,6.9
+104,104,tt4154756,Avengers: Infinity War,8.4
+105,105,tt1477834,Aquaman,6.8
+106,106,tt2139881,Long Shot,6.8
+107,107,tt7131622,Once Upon a Time… in Hollywood,7.6
+108,108,tt6806448,Fast & Furious Presents: Hobbs & Shaw,6.5
+109,109,tt1950186,Ford v Ferrari,8.1
+110,110,tt4332232,Fractured,6.5
+111,111,tt4520988,Frozen II,6.8
+112,112,tt5886046,Escape Room,6.4
+113,113,tt3281548,Little Women,7.8
+114,114,tt6472976,Five Feet Apart,7.2
+115,115,tt1488606,Triple Frontier,6.5
+116,116,tt7798634,Ready or Not,6.9
+117,117,tt6565702,Dark Phoenix,5.7
+118,118,tt8201170,The Perfect Date,5.8
+119,119,tt6105098,The Lion King,6.8
+120,120,tt8695030,The Dead Don't Die,5.5
+121,121,tt4913966,The Curse of La Llorona,5.3
+122,122,tt7984734,The Lighthouse,7.4
+123,123,tt8228288,The Platform,7.0
+124,124,tt1860242,The Highwaymen,6.9
+125,125,tt8367814,The Gentlemen,7.8
+126,126,tt8404614,The Two Popes,7.6
+127,127,tt3513498,The Lego Movie 2: The Second Part,6.5
+128,128,tt1302006,The Irishman,7.8
+129,129,tt7984766,The King,7.3
+130,130,tt5113040,The Secret Life of Pets 2,6.4
+131,131,tt1298644,The Hustle,5.4
+132,132,tt1979376,Toy Story 4,7.7
+133,133,tt4139588,Polar,6.3
+134,134,tt5884052,Pokémon Detective Pikachu,6.5
+135,135,tt6751668,Parasite,8.5
+136,136,tt1560220,Zombieland: Double Tap,6.7
+137,137,tt0448115,Shazam!,7.0
+138,138,tt7043012,Velvet Buzzsaw,5.7
+139,139,tt2527338,Star Wars: The Rise of Skywalker,6.4
+140,140,tt7752126,Brightburn,6.1
+141,141,tt5503686,Hustlers,6.3
+142,142,tt4126476,After,5.3
+143,143,tt8946378,Knives Out,7.9
+144,144,tt1025100,Gemini Man,5.7
+145,145,tt8155288,Happy Death Day 2U,6.2
+146,146,tt2386490,How to Train Your Dragon: The Hidden World,7.4
+147,147,tt6823368,Glass,6.6
+148,148,tt6394270,Bombshell,6.8
+149,149,tt1489887,Booksmart,7.1
+150,150,tt2283336,Men in Black: International,5.6
+151,151,tt7456310,Anna,6.6
+152,152,tt8350360,Annabelle Comes Home,5.9
+153,153,tt6189022,Angel Has Fallen,6.4
+154,154,tt7975244,Jumanji: The Next Level,6.7
+155,155,tt5033998,Charlie's Angels,5.0
+156,156,tt5719748,Cold Pursuit,6.2
+157,157,tt7349950,It Chapter Two,6.5
+158,158,tt2452244,Isn't It Romantic,5.9
+159,159,tt4154664,Captain Marvel,6.8
+160,160,tt2481498,"Extremely Wicked, Shockingly Evil and Vile",6.7
+161,161,tt4687108,In the Tall Grass,5.5
+162,162,tt9243946,El Camino: A Breaking Bad Movie,7.3
+163,163,tt8364368,Crawl,6.1
+164,164,tt7286456,Joker,8.4
+165,165,tt6146586,John Wick: Chapter 3 - Parabellum,7.4
+166,166,tt2584384,Jojo Rabbit,7.9
+167,167,tt2066051,Rocketman,7.3
+168,168,tt1206885,Rambo: Last Blood,6.1
+169,169,tt8579674,1917,8.2
+170,170,tt6450804,Terminator: Dark Fate,6.2
+171,171,tt3387520,Scary Stories to Tell in the Dark,6.2
+172,172,tt6857112,Us,6.8
+173,173,tt0837563,Pet Sematary,5.7
+174,174,tt8079248,Yesterday,6.8
+175,175,tt10431500,Miracle in Cell No. 7,8.2
+176,176,tt5727208,Uncut Gems,7.4
+177,177,tt5814534,Spies in Disguise,6.8
+178,178,tt6320628,Spider-Man: Far from Home,7.4
+179,179,tt0437086,Alita: Battle Angel,7.3
+180,180,tt6139732,Aladdin,6.9
+181,181,tt8772262,Midsommar,7.1
+182,182,tt1618434,Murder Mystery,6.1
+183,183,tt4729430,Klaus,8.2
+184,184,tt5606664,Doctor Sleep,7.3
+185,185,tt3861390,Dumbo,6.3
+186,186,tt2935510,Ad Astra,6.5
+187,187,tt7653254,Marriage Story,7.9
+188,188,tt4777008,Maleficent: Mistress of Evil,6.6
+189,189,tt2274648,Hellboy,5.3
+190,190,tt4154796,Avengers: Endgame,8.4
+191,191,tt3741700,Godzilla: King of the Monsters,6.0
+192,192,tt3300542,London Has Fallen,5.9
+193,193,tt1489889,Central Intelligence,6.3
+194,194,tt3783958,La La Land,8.0
+195,195,tt3183660,Fantastic Beasts and Where to Find Them,7.2
+196,196,tt1564777,Fallen,5.2
+197,197,tt4361050,Ouija: Origin of Evil,6.2
+198,198,tt3741834,Lion,8.0
+199,199,tt4786282,Lights Out,6.3
+200,200,tt1711525,Office Christmas Party,5.9
+201,201,tt2277860,Finding Dory,7.2
+202,202,tt3416828,Ice Age: Collision Course,5.7
+203,203,tt4172430,13 Hours: The Secret Soldiers of Benghazi,7.3
+204,204,tt2005151,War Dogs,7.1
+205,205,tt0803096,Warcraft,6.7
+206,206,tt4501244,Why Him?,6.2
+207,207,tt1679335,Trolls,6.4
+208,208,tt1712261,Triple 9,6.3
+209,209,tt5700672,Train to Busan,7.6
+210,210,tt2592614,Resident Evil: The Final Chapter,5.5
+211,211,tt3385516,X-Men: Apocalypse,6.8
+212,212,tt3631112,The Girl on the Train,6.5
+213,213,tt4547056,The Girl with All the Gifts,6.6
+214,214,tt3381008,Grimsby,6.2
+215,215,tt3882082,The Boy,6.0
+216,216,tt2709768,The Secret Life of Pets,6.5
+217,217,tt4052882,The Shallows,6.3
+218,218,tt2304933,The 5th Wave,5.2
+219,219,tt4857264,The Invisible Guest,8.0
+220,220,tt2034800,The Great Wall,5.9
+221,221,tt4094724,The Purge: Election Year,6.0
+222,222,tt1974419,The Neon Demon,6.1
+223,223,tt2381991,The Huntsman: Winter's War,6.1
+224,224,tt1985949,The Angry Birds Movie,6.3
+225,225,tt3289956,The Autopsy of Jane Doe,6.8
+226,226,tt4276820,The Founder,7.2
+227,227,tt2404435,The Magnificent Seven,6.9
+228,228,tt2025690,The Finest Hours,6.7
+229,229,tt3797868,The Choice,6.5
+230,230,tt3387542,The Forest,4.8
+231,231,tt2140479,The Accountant,7.3
+232,232,tt1355631,The Infiltrator,7.0
+233,233,tt4016934,The Handmaiden,8.1
+234,234,tt1212428,The Lost City of Z,6.6
+235,235,tt3040964,The Jungle Book,7.4
+236,236,tt2452386,The Fundamentals of Caring,7.3
+237,237,tt3691740,The BFG,6.3
+238,238,tt0918940,The Legend of Tarzan,6.2
+239,239,tt1878870,The Edge of Seventeen,7.3
+240,240,tt3799694,The Nice Guys,7.4
+241,241,tt3065204,The Conjuring 2,7.3
+242,242,tt3774114,Snowden,7.3
+243,243,tt4572514,Patriots Day,7.3
+244,244,tt1355644,Passengers,7.0
+245,245,tt0490215,Silence,7.2
+246,246,tt3470600,Sing,7.1
+247,247,tt3544112,Sing Street,7.9
+248,248,tt3263904,Sully,7.4
+249,249,tt1386697,Suicide Squad,5.9
+250,250,tt1608290,Zoolander 2,4.7
+251,251,tt2948356,Zootopia,8.0
+252,252,tt1700841,Sausage Party,6.1
+253,253,tt2660888,Star Trek Beyond,7.0
+254,254,tt4624424,Storks,6.8
+255,255,tt1374989,Pride and Prejudice and Zombies,5.8
+256,256,tt5311514,Your Name.,8.4
+257,257,tt4846340,Hidden Figures,7.8
+258,258,tt2094766,Assassin's Creed,5.6
+259,259,tt1860357,Deepwater Horizon,7.1
+260,260,tt1431045,Deadpool,8.0
+261,261,tt1473832,Bridget Jones's Baby,6.5
+262,262,tt5022702,Hush,6.6
+263,263,tt4698684,Hunt for the Wilderpeople,7.8
+264,264,tt4438848,Neighbors 2: Sorority Rising,5.7
+265,265,tt3531824,Nerve,6.5
+266,266,tt2119532,Hacksaw Ridge,8.1
+267,267,tt0475290,"Hail, Caesar!",6.3
+268,268,tt1292566,How to Be Single,6.1
+269,269,tt2543164,Arrival,7.9
+270,270,tt2267968,Kung Fu Panda 3,7.1
+271,271,tt4302938,Kubo and the Two Strings,7.7
+272,272,tt4651520,Bad Moms,6.2
+273,273,tt2975590,Batman v Superman: Dawn of Justice,6.5
+274,274,tt4853102,Batman: The Killing Joke,6.4
+275,275,tt3522806,Mechanic: Resurrection,5.7
+276,276,tt2674426,Me Before You,7.4
+277,277,tt2671706,Fences,7.2
+278,278,tt4136084,Florence Foster Jenkins,6.8
+279,279,tt4680182,Colossal,6.2
+280,280,tt4682786,Collateral Beauty,6.8
+281,281,tt4645368,It's Only the End of the World,6.8
+282,282,tt2261287,Ballerina,6.7
+283,283,tt3553976,Captain Fantastic,7.8
+284,284,tt3498820,Captain America: Civil War,7.8
+285,285,tt4513674,Café Society,6.6
+286,286,tt1619029,Jackie,6.6
+287,287,tt4196776,Jason Bourne,6.6
+288,288,tt3393786,Jack Reacher: Never Go Back,6.1
+289,289,tt1628841,Independence Day: Resurgence,5.2
+290,290,tt3062096,Inferno,6.2
+291,291,tt3716530,Elle,7.1
+292,292,tt3014866,Criminal,6.3
+293,293,tt3748528,Rogue One: A Star Wars Story,7.8
+294,294,tt4954522,Raw,6.9
+295,295,tt3499096,Race,7.1
+296,296,tt1179933,10 Cloverfield Lane,7.2
+297,297,tt5290524,Where Am I Going?,6.6
+298,298,tt5078204,Two Is a Family,7.3
+299,299,tt2869728,Ride Along 2,5.9
+300,300,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,5.9
+301,301,tt4901306,Perfect Strangers,7.7
+302,302,tt2788732,Pete's Dragon,6.7
+303,303,tt3717252,Underworld: Blood Wars,5.7
+304,304,tt4034354,Swiss Army Man,6.9
+305,305,tt4972582,Split,7.3
+306,306,tt3110958,Now You See Me 2,6.4
+307,307,tt4550098,Nocturnal Animals,7.5
+308,308,tt2567026,Alice Through the Looking Glass,6.2
+309,309,tt3640424,Allied,7.1
+310,310,tt3410834,Allegiant,5.7
+311,311,tt2823054,Mike and Dave Need Wedding Dates,6.0
+312,312,tt2649554,Midnight Special,6.6
+313,313,tt1935859,Miss Peregrine's Home for Peculiar Children,6.7
+314,314,tt4540710,Miss Sloane,7.5
+315,315,tt2387499,Keeping Up with the Joneses,5.9
+316,316,tt4160708,Don't Breathe,7.1
+317,317,tt1211837,Doctor Strange,7.5
+318,318,tt1540011,Blair Witch,5.0
+319,319,tt3521164,Moana,7.6
+320,320,tt2241351,Money Monster,6.5
+321,321,tt4975722,Moonlight,7.4
+322,322,tt4034228,Manchester by the Sea,7.8
+323,323,tt2461150,Masterminds,5.8
+324,324,tt2638144,Ben-Hur,5.7
+325,325,tt3174376,Before I Wake,6.2
+326,326,tt2582782,Hell or High Water,7.6
+327,327,tt1860213,Dirty Grandpa,5.9
+328,328,tt1800302,Gold,6.7
+329,329,tt2404233,Gods of Egypt,5.4
+330,330,tt1289401,Ghostbusters,6.8
+331,331,tt7146812,Onward,7.4
+332,332,tt1051906,The Invisible Man,7.1
+333,333,tt7504726,The Call of the Wild,6.7
+334,334,tt9354842,To All the Boys: P.S. I Still Love You,6.1
+335,335,tt3794354,Sonic the Hedgehog,6.5
+336,336,tt7713068,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),6.1
+337,337,tt1502397,Bad Boys for Life,6.5
+338,338,tt8936646,Extraction,6.8
+339,339,tt5774060,Underwater,5.9
+340,340,tt3907584,All the Bright Places,6.6
+341,341,tt6673612,Dolittle,5.6
+342,342,tt1634106,Bloodshot,5.7
+343,343,tt5439796,Logan Lucky,7.0
+344,344,tt3315342,Logan,8.1
+345,345,tt3262342,Loving Vincent,7.8
+346,346,tt4925292,Lady Bird,7.4
+347,347,tt5442430,Life,6.6
+348,348,tt4465564,Fifty Shades Darker,4.6
+349,349,tt3450958,War for the Planet of the Apes,7.4
+350,350,tt0451279,Wonder Woman,7.3
+351,351,tt2543472,Wonder,7.9
+352,352,tt1536537,What Happened to Monday,6.8
+353,353,tt3371366,Transformers: The Last Knight,5.2
+354,354,tt2932536,47 Meters Down,5.6
+355,355,tt5362988,Wind River,7.7
+356,356,tt1648190,The Dark Tower,5.6
+357,357,tt6294822,The Post,7.2
+358,358,tt5592248,The Beguiled,6.3
+359,359,tt1615160,The Foreigner,7.0
+360,360,tt1758810,The Snowman,5.2
+361,361,tt5638642,The Ritual,6.3
+362,362,tt1959563,The Hitman's Bodyguard,6.9
+363,363,tt2345759,The Mummy,5.4
+364,364,tt4877122,The Emoji Movie,3.4
+365,365,tt5580390,The Shape of Water,7.3
+366,366,tt4630562,The Fate of the Furious,6.6
+367,367,tt1485796,The Greatest Showman,7.5
+368,368,tt5027774,"Three Billboards Outside Ebbing, Missouri",8.1
+369,369,tt2872518,The Shack,6.3
+370,370,tt4287320,The Circle,5.4
+371,371,tt3874544,The Boss Baby,6.3
+372,372,tt5649144,The Florida Project,7.6
+373,373,tt3521126,The Disaster Artist,7.3
+374,374,tt4225622,The Babysitter,6.4
+375,375,tt2226597,The Mountain Between Us,6.4
+376,376,tt3922818,The Space Between Us,6.4
+377,377,tt4116284,The Lego Batman Movie,7.3
+378,378,tt3501632,Thor: Ragnarok,7.9
+379,379,tt5462602,The Big Sick,7.5
+380,380,tt5715874,The Killing of a Sacred Deer,7.0
+381,381,tt5541240,To the Bone,6.8
+382,382,tt1293847,xXx: Return of Xander Cage,5.2
+383,383,tt3717490,Power Rangers,5.9
+384,384,tt5776858,Phantom Thread,7.4
+385,385,tt4468740,Paddington 2,7.8
+386,386,tt0491175,Suburbicon,5.8
+387,387,tt4633690,Shot Caller,7.3
+388,388,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,6.5
+389,389,tt4765284,Pitch Perfect 3,5.8
+390,390,tt5862312,Veronica,6.2
+391,391,tt2527336,Star Wars: The Last Jedi,6.9
+392,392,tt5539054,You Get Me,4.7
+393,393,tt5742374,You Were Never Really Here,6.7
+394,394,tt2406566,Atomic Blonde,6.7
+395,395,tt5390504,Detroit,7.3
+396,396,tt1241317,Death Note,4.5
+397,397,tt3469046,Despicable Me 3,6.2
+398,398,tt3731562,Kong: Skull Island,6.7
+399,399,tt5519340,Bright,6.3
+400,400,tt1981128,Geostorm,5.3
+401,401,tt5052448,Get Out,7.8
+402,402,tt3748172,Gerald's Game,6.5
+403,403,tt5308322,Happy Death Day,6.6
+404,404,tt4649466,Kingsman: The Golden Circle,6.7
+405,405,tt1972591,King Arthur: Legend of the Sword,6.7
+406,406,tt5478478,Hostiles,7.2
+407,407,tt3890160,Baby Driver,7.5
+408,408,tt1469304,Baywatch,5.5
+409,409,tt4622512,Battle of the Sexes,6.7
+410,410,tt5140878,Annabelle: Creation,6.5
+411,411,tt3411444,Ferdinand,6.7
+412,412,tt3348730,Jigsaw,5.7
+413,413,tt2039338,Flatliners,5.2
+414,414,tt3758172,Jungle,6.7
+415,415,tt2283362,Jumanji: Welcome to the Jungle,7.0
+416,416,tt0974015,Justice League,6.1
+417,417,tt2380307,Coco,8.4
+418,418,tt5001718,"Everything, Everything",6.3
+419,419,tt1396484,It,7.3
+420,420,tt4695012,It Comes at Night,6.2
+421,421,tt3606752,Cars 3,6.7
+422,422,tt5726616,Call Me by Your Name,7.8
+423,423,tt4425200,John Wick: Chapter 2,7.4
+424,424,tt3967856,Okja,7.3
+425,425,tt4799050,Rough Night,5.2
+426,426,tt6214928,1922,6.2
+427,427,tt2763304,T2 Trainspotting,7.2
+428,428,tt0498381,Rings,4.5
+429,429,tt2239822,Valerian and the City of a Thousand Planets,6.4
+430,430,tt2250912,Spider-Man: Homecoming,7.4
+431,431,tt3896198,Guardians of the Galaxy Vol. 2,7.6
+432,432,tt5294550,All the Money in the World,6.8
+433,433,tt5657028,Alibi.com,6.5
+434,434,tt2316204,Alien: Covenant,6.4
+435,435,tt4481414,Gifted,7.6
+436,436,tt3564472,Girls Trip,6.2
+437,437,tt4555426,Darkest Hour,7.4
+438,438,tt5657846,Daddy's Home 2,6.0
+439,439,tt3402236,Murder on the Orient Express,6.5
+440,440,tt1389072,Downsizing,5.8
+441,441,tt1856101,Blade Runner 2049,8.0
+442,442,tt5013056,Dunkirk,7.8
+443,443,tt4209788,Molly's Game,7.4
+444,444,tt5109784,mother!,6.6
+445,445,tt1961175,American Assassin,6.2
+446,446,tt3532216,American Made,7.1
+447,447,tt2771200,Beauty and the Beast,7.1
+448,448,tt1691916,Before I Fall,6.4
+449,449,tt2568862,Going in Style,6.6
+450,450,tt4846232,Good Time,7.3
+451,451,tt1219827,Ghost in the Shell,6.3
