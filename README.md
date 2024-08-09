@@ -60,5 +60,5 @@ The sample.csv in the data folder is a sampled from the original dataset used fo
 -One accurate review was picked as a reference out of the actual reviews based on the closeness of the rating to the average movie rating. The BERT score was then computed between the reference and other actual reviews and averaged over each movie. 
 -In contrast, the generated review was also compared with the actual reviews for each movie. These two scores capture how close the generated review is to the actual reviews as compared to the reference review. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/astropiu/Leveraging-Language-Models-to-Analyze-the-Impact-of-Movie-Scripts-on-Audience-and-Critic-Reception/blob/main/metrics/results.png?raw=true)
 
