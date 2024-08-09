@@ -31,7 +31,7 @@ for mov in tqdm(os.listdir(gen_dir)):
 movie_metrics = pd.DataFrame(movie_metrics,columns = ['movie', 'P', 'R', 'F1'])
 movie_metrics.to_csv('pred_metrics.csv')
 
-movie_data_df = pd.read_csv('test_movies_r.csv')
+movie_data_df = pd.read_csv('test_movies.csv')
 
 
 actual_movie_metrics = []

@@ -32,38 +32,33 @@ The dataset consists of subtitle-review pairs for approximately 8,300 movies fro
 - Subtitles: Scraped from Yify Subtitles.
 - Reviews: Top 20 reviews for each movie were scraped from IMDb.
 - Tools Used: Web scraping was performed using Python APIs like Selenium and Beautiful Soup.
-Dataset Collection Code:
 
-#Insert dataset collection code here
+
 
 ## Data Processing
 Subtitles
 - Parsing: Raw subtitles were parsed to extract scenes based on timestamps.
 - Summarization: Scenes were summarized using the BART model to ensure the input tokens did not exceed the 8k token limit of Llama-3-8b.
-- Cleaning: Inconsistencies like improper spacing and invalid characters were removed using regular expressions.
-Subtitles Processing Code:
-#Insert subtitle processing code here
+- Cleaning: Inconsistencies like improper spacing and invalid characters were removed using regular expressions. (correct_sentence.py)
+
+
 
 Reviews
-- Parsing and Cleaning: Reviews were parsed and cleaned for consistency with the subtitle data. Each subtitle was paired with corresponding reviews, creating around 124,500 training samples (approximately 8,300 movies × 15 reviews per movie).
-Reviews Processing Code:
-#Insert Reviews processing code here
+- Parsing and Cleaning: Reviews were parsed and cleaned for consistency with the subtitle data. Each subtitle was paired with corresponding reviews, creating around 45,000 training samples (approximately 8,300 movies × 5 reviews per movie).
+
+
+The sample.csv in the data folder is a sampled from the original dataset used for training
 
 ## Model Training
 - Pipeline: Based on Unsloth’s Llama-3-8b fine-tuning notebook.
 - Optimization: Used 4-bit quantization for reduced memory usage and QLoRA for efficient fine-tuning.
 - Training Setup: Hugging Face’s Supervised Fine Tuning (SFT) trainer was used to configure and perform the training.
 
-Model Training Code:
-#Insert training code here
+
 
 ## Metrics
--Metrics like BERT score were used
-Evaluation Code:
-#Insert evaluation code here
+-One accurate review was picked as a reference out of the actual reviews based on the closeness of the rating to the average movie rating. The BERT score was then computed between the reference and other actual reviews and averaged over each movie. 
+-In contrast, the generated review was also compared with the actual reviews for each movie. These two scores capture how close the generated review is to the actual reviews as compared to the reference review. 
 
-## Results
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-## Discussion
-
-## How to Use
